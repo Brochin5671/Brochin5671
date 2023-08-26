@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Max and in my 4th year, currently attending the University of Guelph for the Computer Science Honours program.
+I'm Max and in my 5th year, currently attending the University of Guelph for the Computer Science Honours program.
 
 I have a good amount of experience with web-development: **JavaScript, TypeScript, React, HTML/CSS, GraphQL, SQL, MongoDB, Express, Node and Docker.**
 
@@ -8,7 +8,7 @@ I also have experience with **Python, C, Java and C#** through personal projects
 
 ## Experience
 
-**Clear Software Inc. (currently 5 months)**: Working with **React**, **GraphQL** and **TypeScript** to migrate complex business processes.
+**Clear Software Inc. (7 months)**: Used **React**, **GraphQL** and **TypeScript** to migrate complex business processes for an Ontario-based annuity broker
 
 **TD Bank Group (4 months)**: Contributed to the MBNA online banking application by assisting in delivering 50+ **Angular** UI and **Java** back-end enhancements which led to improved performance by 10%, benefiting over 7 million customers.
 
