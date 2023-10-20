@@ -4,17 +4,41 @@ I'm Max and in my 5th year, currently attending the University of Guelph for the
 
 I have a good amount of experience with web-development: **JavaScript, TypeScript, React, HTML/CSS, GraphQL, SQL, MongoDB, Express, Node and Docker.**
 
-I also have experience with **Python, C, Java and C#** through personal projects and coding challenges.
+I also have experience with **Python, C and Java** through personal projects and coding challenges.
 
 ## Experience
 
-**Clear Software Inc. (7 months)**: Used **React**, **GraphQL** and **TypeScript** to migrate complex business processes for an Ontario-based annuity broker
+**Clear Software Inc. (7 months)**:
+* Delivered 100+ features and fixes leveraging React, JavaScript, TypeScript, GraphQL and MariaDB to streamline and modernize business processes for an Ontario-based annuity brokerage firm
+* Developed an Excel service on the application’s back-end using TypeScript and NestJS to migrate a Visual
+FoxPro process for spreadsheet parsing and data export to templates in order to streamline data management
+• Lead the creation of annuity application pages and forms by building the UI using React, JavaScript and a
+custom GraphQL API, resulting in efficient management of annuities for thousands of clients
 
-**TD Bank Group (4 months)**: Contributed to the MBNA online banking application by assisting in delivering 50+ **Angular** UI and **Java** back-end enhancements which led to improved performance by 10%, benefiting over 7 million customers.
 
-**NCR (4 months)**: Developed and enhanced the D3 Banking web app used by over 3 million users, using **React**, **TypeScript**, **Redux**, and **Jest**. This involved collaborating with cross-functional teams, contributing with 50+ pull requests, and revamping UI architecture to improve performance and scalability for across 7 banks.
+**TD Bank Group (4 months)**:
+• Contributed to the enhancement of the MBNA online banking web application impacting over 7 million
+customers for credit card servicing within the TD Credit Card Product Group
+• Assisted in delivering 50+ Angular UI and Java back-end enhancements by pair programming and
+conducting code reviews, leading to successful retrospectives and a reduction in post-deployment issues
+• Refactored and optimized Java back-end code in the banking application resulting in a 10% performance boost
+by using several optimization techniques and eliminating bottlenecks
 
-**University of Guelph (4 months)**: Collaborated on the Global Burden of Animal Diseases project with a professor, contributing to the extraction and standardization of extensive Ethiopian livestock and aquaculture data for analysis. I also implemented a proof-of-concept solution using **Amazon RDS** to maintain a **PostgreSQL** database of two decades of Ethiopian livestock data for analytical purposes to the World Health Organization.
+**NCR (4 months)**:
+• Participated in the development of the D3 Banking web application’s UI using React, TypeScript and Jest,
+which had an impact on over 3 million users using the banking solutions
+• Collaborated with front-end and back-end developers to open and merge 50+ pull requests, that consisted of
+features, fixes and refactors for several releases of the application used by a dozen banks and credit unions
+• Revamped the architecture of the UI by refactoring 150+ components into shared libraries and to use Redux’s
+state container, which improved maintainability and reduced code duplication for better performance
+
+**University of Guelph (4 months)**:
+• Collaborated on the Global Burden of Animal Diseases project funded by the Bill & Melinda Gates
+Foundation, aimed at understanding and mitigating the impact of animal diseases on global health and agriculture
+• Developed Python scripts to extract, clean, and standardize extensive Ethiopian livestock and aquaculture data
+from PDF tables, streamlining the data governance process, and facilitating data analysis and reporting
+• Demonstrated a proof-of-concept solution for providing analytical data to the World Health Organization by using
+Amazon RDS to maintain a PostgreSQL database spanning two decades of Ethiopian livestock data
 
 ## :fire: Stats :fire:
 
