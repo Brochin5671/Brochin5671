@@ -60,7 +60,7 @@ Amazon RDS to maintain a PostgreSQL database spanning two decades of Ethiopian l
 
 ## Contact information
 
-* Portfolio:        [WIP](https://maxim-brochin.vercel.app)
+* Portfolio:        [www.maximbrochin.com](https://www.maximbrochin.com)
 * Personal Email:   maximbrochin@gmail.com         
 <div id="badges">
   <a href="https://www.linkedin.com/in/maxim-brochin/">
