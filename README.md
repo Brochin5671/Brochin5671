@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Max and in my 5th year, currently attending the University of Guelph for the Computer Science Honours program.
+I'm Max and I previously attended the University of Guelph for my Computer Science Honours program.
 
 I have a good amount of experience with web-development: **JavaScript, TypeScript, React, HTML/CSS, GraphQL, SQL, MongoDB, Express, Node and Docker.**
 
